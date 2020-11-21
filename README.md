@@ -31,12 +31,10 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+It was diffcult for me to understand Git and Github and all the different uses like push, pull, etc. It was also my first time using Java and I had only known Python so there was alot of syntax that looked confusing.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Apache License
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
